@@ -7,3 +7,6 @@ https://vietnamese.alibaba.com/product-detail/3-meters-reading-range-uart-ttl-ra
 
 
 https://www.atsc.org/atsc-documents/a-3272018-guidelines-for-the-physical-layer-protocol/
+
+
+https://www.rfwireless-world.com/Tutorials/ATSC-1-vs-ATSC-2-vs-ATSC-3.html
