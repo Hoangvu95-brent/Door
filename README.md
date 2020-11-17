@@ -10,3 +10,5 @@ https://www.atsc.org/atsc-documents/a-3272018-guidelines-for-the-physical-layer-
 
 
 https://www.rfwireless-world.com/Tutorials/ATSC-1-vs-ATSC-2-vs-ATSC-3.html
+
+Tap am : https://sites.google.com/site/sinhvienthanhdoedu/suy-hao
